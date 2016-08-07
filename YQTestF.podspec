@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 This Test component for Jiuxiu APP, quick develop
 DESC
 
-  s.homepage     = "https://github.com/QLwangqinghai/TestPodspec.git"
+  s.homepage     = "https://github.com/QLwangqinghai/TestF.git"
 
 
 s.license      = { :type => "MIT", :text => <<-LICENSE
@@ -49,8 +49,8 @@ LICENSE
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-#  s.source       = { :git => "http://EXAMPLE/YQTestF.git", :tag => "#{s.version}" }
-  s.source       = { :git => "https://github.com/QLwangqinghai/TestPodspec.git", :branch => "master" }
+#  s.source       = { :git => "http://EXAMPLE/TestF.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/QLwangqinghai/TestF.git", :branch => "master" }
 
 
 #  s.source_files  = "Classes", "Classes/**/*.{h,m}"
