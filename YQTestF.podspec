@@ -54,7 +54,7 @@ LICENSE
 
 
 #  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-s.source_files = "TestF/**/*.{h,swift,c,mm,m,cpp}"
+s.source_files = "TestF/**/*.{h,swift,c,mm,m,cpp,framework}"
 
 #s.exclude_files = "Classes/Exclude"
 
