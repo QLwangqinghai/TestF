@@ -92,7 +92,7 @@ Pod::Spec.new do |s|
   #
 
 #  s.source_files  = "Classes", "Classes/**/*.{h,m}"
-s.source_files = "TestF/**/*.{h,swift,c,mm,m,cpp}"
+s.source_files = "TestPodspec/**/*.{h,swift,c,mm,m,cpp}"
 
   s.exclude_files = "Classes/Exclude"
 
